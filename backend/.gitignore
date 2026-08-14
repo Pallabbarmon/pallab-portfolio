@@ -1,0 +1,6 @@
+venv/
+.env
+portfolio.db
+__pycache__/
+uploads/*
+!uploads/.gitkeep
